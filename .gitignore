@@ -1,0 +1,10 @@
+/Unsupervised_pretraining/tensorboard_logs/
+/Unsupervised_pretraining/weights_and_hparams/
+/Unsupervised_pretraining/weights_and_biases_logs/
+/Unsupervised_pretraining/wandb/
+/Unsupervised_pretraining/__pycache__/
+
+/Evaluation/tensorboard_logs/
+/Evaluation/weights_and_hparams/
+/Evaluation/__pycache__/
+/description.txt

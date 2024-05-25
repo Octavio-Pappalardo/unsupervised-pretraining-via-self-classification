@@ -1,0 +1,13 @@
+
+numpy==1.26.4
+lightning==2.2.5
+torch>=2.0.1+cu118
+torchvision
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+
+'''numpy==1.26.4
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+lightning==2.2.5'''
+ tensorboard==2.16.2
